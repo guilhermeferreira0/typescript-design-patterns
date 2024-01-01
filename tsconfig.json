@@ -10,7 +10,7 @@
         "strict": true,
         "esModuleInterop": true,
         "skipLibCheck": true,
-        "forceConsistentCasingInFileNames": true, //não permitit incoferencias no nome dos arquivos
+        "forceConsistentCasingInFileNames": true, //não permiti incoferencias no nome dos arquivos
     },
     "include": ["./src"]
 }
