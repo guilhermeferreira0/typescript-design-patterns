@@ -1,4 +1,5 @@
 # Adapter - Structural (Estrutural)
+<!-- Um dos mais Utilizados -->
 
 ## Intenção
 
